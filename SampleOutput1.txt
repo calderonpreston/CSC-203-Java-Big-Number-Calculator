@@ -1,0 +1,6 @@
+Input format does not follow the structure: 'positive integer' '(+ or *)' 'positive integer'
+3 * 5 = 15
+0 * 1 = 0
+Invalid operation: 10 - 5
+Invalid operation: 10 % 5
+Invalid operation: 10 / 5
